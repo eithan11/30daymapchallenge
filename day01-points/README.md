@@ -21,13 +21,21 @@ Create a map with point data - locations, clusters, POIs
 ## תוצאות | Results
 הוסיפו את המפה שלכם לתיקיית `images/`!  
 Add your map to the `images/` folder!
+
 ### עדו קליין
 ![](images/ido_klein.png)
-[קישור](https://x.com/idoklein1/status/1984695427359240486)
+[קישור](https://x.com/idoklein1/status/1984695427359240486)  
 ### איתן וייס שיינברג
 ![](images/Eithan_Weiss_Schonberg.png)
-[קישור](https://x.com/EithanSchon/status/1984727770799489477)
-
+[קישור](https://x.com/EithanSchon/status/1984727770799489477)  
+### רועי קנת פורטל
+![](images/Roe_Kenneth_Portal.jpeg)  
+### אליאב שטול-טראורינג
+![](images/eliav_st.jpeg)  
+### שלי אלבז
+![](images/shellye.jpeg)
+### ויטלי אויסאטינסקי
+![](images/v_o.pdf)
 
 
 
