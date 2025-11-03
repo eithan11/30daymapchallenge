@@ -23,7 +23,7 @@ Map linear features like roads, rivers, or flow lines
 
 Add your map to the `images/` folder!
 
-### איתן וייס שיינברג
+### איתן וייס שינברג
 ![](images/Eithan_Weiss_Schonberg.gif)
 [קישור](https://x.com/EithanSchon/status/1985015997087072397)
 ### עדו קליין
