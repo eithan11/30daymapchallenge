@@ -35,6 +35,7 @@ Add your map to the `images/` folder!
 ### שלי אלבז
 ![](images/shellye.jpeg)
 ### ויטלי אויסאטינסקי
+קובץ v_o.pdf בתיקיית התמונות
 ![](images/v_o.pdf)
 
 
