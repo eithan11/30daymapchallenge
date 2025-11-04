@@ -22,3 +22,8 @@ Map something personal using your own dataset
 הוסיפו את המפה שלכם לתיקיית `images/`!
 
 Add your map to the `images/` folder!
+
+
+### איתן וייס שינברג
+![](images/Eithan_Weiss_Schonberg.jpg)
+[קישור](https://x.com/EithanSchon/status/1985605619513196631)
