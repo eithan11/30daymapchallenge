@@ -25,5 +25,5 @@ Add your map to the `images/` folder!
 
 
 ### איתן וייס שינברג
-![](images/Eithan_Weiss_Schonberg.jpg)
-[קישור](https://x.com/EithanSchon/status/1985605619513196631)
+![](images/Eithan_Weiss_Schonberg.png)
+[קישור](https://x.com/EithanSchon/status/1985965255865115077)

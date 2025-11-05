@@ -22,3 +22,6 @@ Landforms, geology, soil, elevation, or anything on/beneath the ground
 הוסיפו את המפה שלכם לתיקיית `images/`!
 
 Add your map to the `images/` folder!
+### איתן וייס שינברג
+![](images/Eithan_Weiss_Schonberg.png)
+[קישור](https://x.com/EithanSchon/status/1985965255865115077)
